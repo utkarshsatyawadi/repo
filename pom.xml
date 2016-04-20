@@ -7,6 +7,7 @@
 		<version>1.2.3.RELEASE</version>
 	</parent>
 	<artifactId>spring-boot-sample-ws</artifactId>
+	<packaging>war</packaging>
 	<name>Spring Boot Web Services Sample</name>
 	<description>Spring Boot Web Services Sample</description>
 	<url>http://projects.spring.io/spring-boot/</url>
