@@ -1,0 +1,14 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+		xmlns:wsspring="http://webservice.com/wsspring/schemas"
+		elementFormDefault="qualified"
+		targetNamespace="http://webservice.com/wsspring/schemas">
+	<!-- <xs:element name="WSRequest">
+		<xs:complexType>
+			<xs:all>
+				<xs:element name="Name" type="xs:string"/>
+			</xs:all>
+		</xs:complexType>
+	</xs:element> -->
+	
+	<xs:element name="Name" type="xs:string"/>
+</xs:schema>

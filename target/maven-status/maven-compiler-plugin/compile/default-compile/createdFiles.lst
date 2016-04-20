@@ -1,0 +1,5 @@
+com\satyawadi\ws\service\WSServiceImpl.class
+com\satyawadi\ws\endpoint\WSEndpoint.class
+com\satyawadi\ws\WebServiceConfig.class
+com\satyawadi\ws\Application.class
+com\satyawadi\ws\service\WSService.class
